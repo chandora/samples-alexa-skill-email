@@ -3,3 +3,4 @@ ask-resources.json
 .vscode
 lambda/node_modules
 lambda/.env
+.skill-package-backup
